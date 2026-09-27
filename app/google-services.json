@@ -1,0 +1,30 @@
+// This placeholder file keeps the app configuration ready for Firebase setup.
+// Replace this file with a real google-services.json from your Firebase project.
+{
+  "project_info": {
+    "project_id": "quran-learning-app",
+    "project_number": "000000000000",
+    "name": "Quran Learning App"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:000000000000:android:0000000000000000",
+        "android_client_info": {
+          "package_name": "com.akzytech.quranlearning"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "YOUR_API_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
